@@ -5,7 +5,7 @@ This repository contains a list of useful PHP class or librairies for teleco rel
 ## For Sending SMS
 For sending SMS, two classes are available for you
 
-###NB
+### NB
 This classes can only be used if you have access to an MSC Gateway
 
 ### SMPPClass

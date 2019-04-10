@@ -18,8 +18,11 @@ You it contain one function for sending SMS
 
 #### sendOne(Array $to, string $msg, string $from)
 
-##### $to is the array of destination numbers you want to send the sms to
+##### $to 
+The array of destination numbers you want to send the sms to
 
-##### $msg is the message you want to send
+##### $msg 
+The message you want to send
 
-##### $from is the name you want the destination numbers to see when receiving the sms
+##### $from 
+The name you want the destination numbers to see when receiving the sms
